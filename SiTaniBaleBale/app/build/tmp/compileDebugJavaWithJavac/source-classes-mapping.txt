@@ -1,0 +1,2 @@
+com/khios/sitanibalebale/BuildConfig.java
+ com.khios.sitanibalebale.BuildConfig

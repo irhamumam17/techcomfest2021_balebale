@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">796697281582-e3a56qen8c8mm6drvbcegj696cu4ii55.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">796697281582</string>
+    <string name="google_api_key" translatable="false">AIzaSyAf-KIkt-XdfTE441S0iddaUfKR-ojarHU</string>
+    <string name="google_app_id" translatable="false">1:796697281582:android:04f9fe483fe7c6eed30bbf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAf-KIkt-XdfTE441S0iddaUfKR-ojarHU</string>
+    <string name="google_storage_bucket" translatable="false">sitanibale.appspot.com</string>
+    <string name="project_id" translatable="false">sitanibale</string>
+</resources>

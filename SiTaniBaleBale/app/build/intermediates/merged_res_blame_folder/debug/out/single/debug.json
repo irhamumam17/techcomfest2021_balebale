@@ -1,0 +1,938 @@
+[
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_akun_pengepul.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_akun_pengepul.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_add_24.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_call_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_call_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_berita_pengepul.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_detail_berita_pengepul.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_wa_lingkaran.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\wa_lingkaran.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_splash.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\splash.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_email_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_sharp.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\location_sharp.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_add_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_delete_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rance_harga.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_rance_harga.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_blueline.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\blueline.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg2.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\bg2.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_edit_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_harga_ternak.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_harga_ternak.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_tebasan.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\list_tebasan.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_add_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_wishlist.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\ic_wishlist.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_round_vpn_key_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_round_vpn_key_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_delete_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_title_ranceharga.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\title_ranceharga.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_title_ranceharga.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\title_ranceharga.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_email_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call_lingkaran.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\call_lingkaran.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tebasan.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_tebasan.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_gps_fixed_24.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_gps_fixed_24.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg1.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\bg1.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_statusbar.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\statusbar.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_call_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_call_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_call_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_call_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_delete_24.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_keluar.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\ic_keluar.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_edit_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_iv_masuk_wishlist.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\iv_masuk_wishlist.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_btn_green_login.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\bg_btn_green_login.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tebasan.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\ic_tebasan.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sitani_white.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\ic_sitani_white.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_edit_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_berita.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_berita.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_person_sharp.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\person_sharp.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_person_sharp.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\person_sharp.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_email_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_add_photo.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\add_photo.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_call_sharp.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\call_sharp.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_berita.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\ic_berita.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_harga.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\harga.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_kotak.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\img_kotak.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_call_24.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_call_24.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dashboard_pengepul.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_dashboard_pengepul.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\rounded.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_add_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_add_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_delete_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_detail.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\img_detail.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_save.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\btn_save.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_img_kotak.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\img_kotak.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_round_vpn_key_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_round_vpn_key_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_save_ic.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\save_ic.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mail_sharp.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\mail_sharp.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_berita_pengepul.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_berita_pengepul.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_heart.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\heart.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_akun.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_edit_akun.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_back_greensitani.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\ic_back_greensitani.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_add_photo.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\add_photo.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_more_vert_24.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_more_vert_24.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_edit_24.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_edit_24.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_linegreen.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\linegreen.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_dasboard_petani.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_dasboard_petani.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv_berita_pengepul.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\iv_berita_pengepul.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_img_berita2.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\img_berita2.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_round_vpn_key_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_round_vpn_key_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv_hapus.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\iv_hapus.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_berita.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\ic_berita.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logologin.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\logologin.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_wishlist.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_detail_wishlist.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_akun.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\akun.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_call_sharp.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\call_sharp.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_add_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv_berita_petani.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\iv_berita_petani.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_akun.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_akun.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_delete_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_tebasan.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\ic_tebasan.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_edit_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_tebasan_pengepul.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_detail_tebasan_pengepul.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rance_harga_pengepul2.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_rance_harga_pengepul2.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_call_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_call_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_close_black.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\ic_close_black.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_save.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\btn_save.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bar1.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\bar1.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wa_lingkaran.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\wa_lingkaran.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_berita.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\img_berita.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hapus_wishlist_iv.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\hapus_wishlist_iv.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_harga_tani.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_harga_tani.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_location_lingkaran.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\location_lingkaran.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_harga_nasional.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\ic_harga_nasional.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_location_sharp.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\location_sharp.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_akun.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\ic_akun.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_akun.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\ic_akun.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_menuback.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\menuback.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_email_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_berita.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_detail_berita.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_email_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_round_vpn_key_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_round_vpn_key_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tambah_akun_petani.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_tambah_akun_petani.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_add_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_add_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_field_inputan_bg.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\field_inputan_bg.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_btn_edit_akun.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\btn_edit_akun.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ranceharga_ternak.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\ic_ranceharga_ternak.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keluar.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\ic_keluar.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_more_vert_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_sitani_white.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\ic_sitani_white.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tokoku.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\tokoku.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_img_detail.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\img_detail.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv_edit.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\iv_edit.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_berita2.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_detail_berita2.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_call_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_call_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_arrow_back_24.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_arrow_back_24.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_call_lingkaran.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\call_lingkaran.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tambah_product.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_tambah_product.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_iv_akun.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\iv_akun.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_round_vpn_key_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_round_vpn_key_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_filed_green.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\filed_green.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_ranceharga_tani.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\ic_ranceharga_tani.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_sitani.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\sitani.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_round_vpn_key_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_round_vpn_key_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_edit_akun_pengepul.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_edit_akun_pengepul.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_round_vpn_key_24.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_round_vpn_key_24.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_detail_iv.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\detail_iv.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bar1.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\bar1.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_emaillog.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\emaillog.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_tokoku.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\list_tokoku.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_mail_sharp.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\mail_sharp.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tebasan_pengepul.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_tebasan_pengepul.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_tebasan.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\tebasan.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_delete_forever_24.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_delete_forever_24.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_update_dialog_product.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\update_dialog_product.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_harga_tani_pengepul.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_harga_tani_pengepul.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_img_berita.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\img_berita.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wishlist.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_wishlist.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_rance_harga_pengepul.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_rance_harga_pengepul.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv_masuk_wishlist.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\iv_masuk_wishlist.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_ranceharga_tani.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\ic_ranceharga_tani.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\font_inder.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\font\\inder.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_detail_iv.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\detail_iv.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bgbutton.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\bgbutton.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_baseline_call_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_baseline_call_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_save_ic.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\save_ic.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_baseline_email_24.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_tokoku.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_tokoku.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_imagetambah.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\imagetambah.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_harga_tani.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\row_harga_tani.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_delete_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_baseline_delete_forever_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_baseline_delete_forever_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_blueline.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\blueline.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_tebasan_pengepul.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\list_tebasan_pengepul.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_passwordlog.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\passwordlog.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_wishlist.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\list_wishlist.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_edit_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_edit_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_asset1.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\asset1.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_keluar.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\keluar.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_berita.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\berita.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_butontambah.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\butontambah.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg2.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\bg2.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_iv_akun.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\iv_akun.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back_greensitani.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\ic_back_greensitani.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_harga_nasional.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\ic_harga_nasional.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_arrow_back_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_arrow_back_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_login.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\login.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_lingkaran.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\location_lingkaran.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_baseline_more_vert_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_baseline_more_vert_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_linegreen.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\linegreen.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_berita2.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\img_berita2.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wishlist.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\ic_wishlist.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_gps_fixed_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_gps_fixed_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg1.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\bg1.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_ranceharga_ternak.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\ic_ranceharga_ternak.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_close_black.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\ic_close_black.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_email_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_email_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_tebasan.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_detail_tebasan.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hapus_wishlist_iv.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable-v24\\hapus_wishlist_iv.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_logodasboard.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\mipmap-mdpi\\logodasboard.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_baseline_delete_24.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail_product.xml.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\layout\\activity_detail_product.xml"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_edit_akun.png.flat",
+        "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\drawable\\btn_edit_akun.png"
+    }
+]

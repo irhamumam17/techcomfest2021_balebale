@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.PengepulActivity.Berita.DetailBeritaPengepulActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_detail_berita_pengepul"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/bar1"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="?attr/actionBarTheme"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/ic_close_detail_berita_pengepul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/toolbar_detail_berita_pengepul"
+        app:srcCompat="@drawable/ic_close_black" />
+
+    <TextView
+        android:id="@+id/tv_tgl_detail_berita_pengepul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="32dp"
+        android:text="19 Jan 2021"
+        android:textSize="12sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ic_close_detail_berita_pengepul" />
+
+    <TextView
+        android:id="@+id/tv_title_berita_pengepul"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:text="Komisi IV DPR Sebut Indonesia Kekurangan Penyuluh Pertanian"
+        android:textColor="@color/black"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_tgl_detail_berita_pengepul" />
+
+    <TextView
+        android:id="@+id/tv_detail_isi_berita_pengepul"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="24dp"
+        android:text='Jakarta - Ketua Komisi IV, DPR, Sudin menilai jumlah penyuluh pertanian yang dimiliki saat ini masih kurang. Sebab dari 75 ribu desa potensi pertanian, hanya ada 38 ribu penyuluh pertanian.  "Kenyataanya kita ini kekurangan penyuluh," kata Sudin dalam Rapat Dengar Pendapat bersama Kementerian Pertanian, Kemenko Perekonomian, PT Pupuk Indonesia dan Himbara, di Ruang Sidang Komisi IV, Komplek DPR, Jakarta, Senin (18/1/2020). Kurangnya penyuluh pertanian ini menyebabkan pengumpulan data yang dilakukan Kementerian Pertanian. Sehingga dia menilai dalam melakukan pendataan penyuluh hanya menyalin data yang sudah dibuat tahun sebelumnya.  "Akibatnya cara yang gampang ya copas (copy-paste/menyalin) saja," kata dia. '
+        android:textAlignment="viewStart"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_title_berita_pengepul" />
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="200dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="24dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_detail_isi_berita_pengepul">
+
+        <ImageView
+            android:id="@+id/iv_detail_berita_pengepul"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="5dp"
+            app:srcCompat="@drawable/iv_berita_pengepul" />
+    </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

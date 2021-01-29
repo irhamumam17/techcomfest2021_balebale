@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "796697281582",
+    "project_id": "sitanibale",
+    "storage_bucket": "sitanibale.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:796697281582:android:04f9fe483fe7c6eed30bbf",
+        "android_client_info": {
+          "package_name": "com.khios.sitanibalebale"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "796697281582-uke88vo8trpna48k5hsd7442jbdvfp77.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.khios.sitanibalebale",
+            "certificate_hash": "04d7b00108899967d947632be7d8a6520875dd2b"
+          }
+        },
+        {
+          "client_id": "796697281582-e3a56qen8c8mm6drvbcegj696cu4ii55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf-KIkt-XdfTE441S0iddaUfKR-ojarHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "796697281582-e3a56qen8c8mm6drvbcegj696cu4ii55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

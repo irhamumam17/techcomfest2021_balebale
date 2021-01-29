@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.PengepulActivity.Berita.BeritaPengepulActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cardView4">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:paddingTop="30dp"
+                android:paddingBottom="30dp">
+
+                <ImageView
+                    android:id="@+id/img_beritasmall4_pengepul"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/img_berita2" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/txt_katergori2_pengepul"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="PETERNAKAN"
+                        android:textColor="@color/greensitani" />
+
+                    <TextView
+                        android:id="@+id/txt_judulberita3_pengepul"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif-medium"
+                        android:paddingRight="20dp"
+                        android:text="Harga Ternak Naik Peternak Bahagia di Tegal"
+                        android:textColor="#0C0C0C"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/txt_tanggalberita3_pengepul"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="26 Januari 2021" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <androidx.appcompat.widget.Toolbar
+            android:id="@+id/toolbarberitapengepul"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/greensitani"
+            android:minHeight="?attr/actionBarSize"
+            android:theme="?attr/actionBarTheme"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:navigationIcon="@drawable/ic_baseline_arrow_back_24"
+            app:subtitleTextColor="#FFFFFF"
+            app:title="Berita Seputar Tani dan Ternak"
+            app:titleTextColor="#FFFFFF" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="24dp"
+            android:fontFamily="sans-serif"
+            android:text="Berita Terbaru"
+            android:textColor="#121212"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/toolbarberitapengepul" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/btn_berita1_pengepul"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView5">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:id="@+id/img_berita_pengepul"
+                    android:layout_width="wrap_content"
+                    android:layout_height="240dp"
+                    android:padding="10dp"
+                    android:paddingTop="20dp"
+                    app:srcCompat="@drawable/iv_berita_petani" />
+
+                <TextView
+                    android:id="@+id/txt_kategori_berita_pengepul"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:text="PERTANIAN"
+                    android:textColor="@color/greensitani" />
+
+                <TextView
+                    android:id="@+id/txt_judulberita_pengepul"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fontFamily="sans-serif-medium"
+                    android:paddingLeft="20dp"
+                    android:paddingRight="100dp"
+                    android:text="Mentan: Berkat Pupuk Subsidi, Nilai Tambah Produksi Pertanian Capai 250 Persen"
+                    android:textColor="#0C0C0C"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/txt_tanggalberita_pengepul"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingLeft="20dp"
+                    android:paddingBottom="10dp"
+                    android:text="23 Jan 2021" />
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="32dp"
+            android:text="TREN SEKARANG"
+            android:textColor="@color/greensitani"
+            android:textSize="20sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/btn_berita1_pengepul" />
+
+        <androidx.cardview.widget.CardView
+            android:id="@+id/cardView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="16dp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginTop="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/textView14">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:paddingTop="30dp"
+                android:paddingBottom="30dp">
+
+                <ImageView
+                    android:id="@+id/img_beritasmall3_pengepul"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/img_berita2" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/txt_katergori1_pengepul"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="PETERNAKAN"
+                        android:textColor="@color/greensitani" />
+
+                    <TextView
+                        android:id="@+id/txt_judulberita2_pengepul"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="sans-serif-medium"
+                        android:paddingRight="20dp"
+                        android:text="Harga Pakan ternak mengalami kelangkaan"
+                        android:textColor="#0C0C0C"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/txt_tanggalberita2_pengepul"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="26 Januari 2021" />
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

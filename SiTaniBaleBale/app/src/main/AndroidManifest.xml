@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.khios.sitanibalebale">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SiTaniBaleBale">
+        <activity android:name=".Activity.PengepulActivity.Berita.BeritaDetailPengepulActivity"></activity>
+        <activity android:name=".Activity.PengepulActivity.Harga.HargaTaniPengepulActivity" />
+        <activity android:name=".Activity.PengepulActivity.Harga.RanceHargaPengepulActivity" />
+        <activity android:name=".Activity.PengepulActivity.DetailTebasanPengepulActivity" />
+        <activity android:name=".Activity.PengepulActivity.TebasanPengepulActivity" />
+        <activity android:name=".Activity.PetaniActivity.DetailBeritaActivity" />
+        <activity android:name=".Activity.PengepulActivity.RanceHargaPengepulActivity" />
+        <activity android:name=".Activity.PengepulActivity.Berita.BeritaPengepulActivity" />
+        <activity android:name=".Activity.PengepulActivity.DetailWishlistActivity" />
+        <activity android:name=".Activity.PengepulActivity.EditAkunPengepulActivity" />
+        <activity android:name=".Activity.PengepulActivity.AkunPengepulActivity" />
+        <activity android:name=".Activity.PengepulActivity.DashboardPengepulActivity" />
+        <activity android:name=".Activity.PetaniActivity.DetailTebasanActivity" />
+        <activity android:name=".Activity.PetaniActivity.TambahAkunPetaniActivity" />
+        <activity android:name=".Activity.DetailBeritaActivity" />
+        <activity android:name=".Activity.PengepulActivity.WishlistActivity" />
+        <activity android:name=".Activity.Harga.RanceHargaActivity" />
+        <activity android:name=".Activity.Harga.HargaTaniActivity" />
+        <activity android:name=".Activity.Harga.HargaTernakActivity" />
+        <activity android:name=".Activity.Harga.HargaTaniiActivity" />
+        <activity android:name=".Activity.PetaniActivity.EditAkunActivity" />
+        <activity android:name=".Activity.BeritaActivity" />
+        <activity android:name=".Activity.PetaniActivity.AkunActivity" />
+        <activity android:name=".Activity.PetaniActivity.DetailProductActivity" />
+        <activity android:name=".Activity.PetaniActivity.TebasanActivity" />
+        <activity android:name=".Activity.PetaniActivity.TambahProductActivity" />
+        <activity android:name=".Activity.PetaniActivity.TokokuActivity" />
+        <activity android:name=".Activity.PetaniActivity.DasboardPetaniActivity" />
+        <activity android:name=".Activity.LoginActivity" />
+        <activity android:name=".Activity.RegisterActivity" />
+        <activity android:name=".Activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+    </application>
+
+</manifest>

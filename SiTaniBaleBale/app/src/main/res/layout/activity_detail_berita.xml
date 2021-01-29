@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.DetailBeritaActivity">
+
+  <androidx.appcompat.widget.Toolbar
+      android:id="@+id/toolbar_detail_berita_petani"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:background="@drawable/bar1"
+      android:minHeight="?attr/actionBarSize"
+      android:theme="?attr/actionBarTheme"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toTopOf="parent" />
+
+  <ImageView
+      android:id="@+id/ic_close_detail_berita_petani"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="16dp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/toolbar_detail_berita_petani"
+      app:srcCompat="@drawable/ic_close_black" />
+
+  <TextView
+      android:id="@+id/tv_tgl_detail_berita_pengepul"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="24dp"
+      android:layout_marginTop="32dp"
+      android:text="23 Jan 2021"
+      android:textSize="12sp"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/ic_close_detail_berita_petani" />
+
+  <TextView
+      android:id="@+id/tv_title_berita_pengepul"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="24dp"
+      android:layout_marginTop="8dp"
+      android:layout_marginEnd="24dp"
+      android:text="Mentan: Berkat Pupuk Subsidi, Nilai Tambah Produksi Pertanian Capai 250 Persen"
+      android:textColor="@color/black"
+      android:textSize="18sp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/tv_tgl_detail_berita_pengepul" />
+
+  <TextView
+      android:id="@+id/tv_detail_isi_berita_pengepul"
+      android:layout_width="0dp"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="24dp"
+      android:layout_marginTop="8dp"
+      android:layout_marginEnd="24dp"
+      android:text="Hasil kajian balitbangtan 2020 nilai tambah produksi sebagai dampak pupuk bersubsidi mencapai Rp 98,4 triliun. Jika dibandingkan anggaran yang digunakan rata-rata dari 2014-2020 Rp 28,1 triliun maka nilai manfaat mencapai di atas 250 persen,” kata Mentan dalam Raker Komisi IV, Senin (25/1/2021)Mentan menjelaskan, pupuk bersubsidi itu ditujukan untuk memenuhi kebutuhan nasional dengan luas baku sawah 7,46 juta hektar diperlukan 21 juta ton pupuk. Namun Kementan baru memenuhi 9 juta ton pupuk, dimana pangan hanya teralokasi 6,1 juta ton.  Adapun terkait dengan produksi padi menurut FAO 2018, produksi padi Indonesia 5,19 ton per hektar lebih tinggi dibandingkan produksi Thailand hanya 3,09 ton per hektar, Filipina 3,97 ton per hektar, India 3,88 ton per hektar,  Pakistan 3,84 ton per hektar, dan beberapa negara lainnya"
+      android:textAlignment="viewStart"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/tv_title_berita_pengepul" />
+
+  <androidx.cardview.widget.CardView
+      android:layout_height="200dp"
+      android:layout_marginStart="24dp"
+      android:layout_marginTop="16dp"
+      android:layout_marginEnd="24dp"
+      app:layout_constraintEnd_toEndOf="parent"
+      app:layout_constraintStart_toStartOf="parent"
+      app:layout_constraintTop_toBottomOf="@+id/tv_detail_isi_berita_pengepul"
+      android:layout_width="match_parent">
+
+    <ImageView
+        android:id="@+id/iv_detail_berita_pengepul"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        app:srcCompat="@drawable/iv_berita_petani" />
+  </androidx.cardview.widget.CardView>
+</androidx.constraintlayout.widget.ConstraintLayout>

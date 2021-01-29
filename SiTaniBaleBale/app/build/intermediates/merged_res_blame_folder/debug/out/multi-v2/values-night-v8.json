@@ -1,0 +1,100 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\FILE_AS\\SiTaniBaleBale\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\values-night\\font_certs.xml",
+                    "from": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "57,263,1993",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "257,1987,3582"
+                    },
+                    "to": {
+                        "startLines": "2,6,11",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "100,302,2027",
+                        "endLines": "5,10,15",
+                        "endColumns": "12,19,19",
+                        "endOffsets": "297,2022,3612"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ULKHAK\\.gradle\\caches\\transforms-2\\files-2.1\\495933c64ef572fec6c08807fc15a3cf\\appcompat-1.2.0\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,55",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3719,3789,3873,3957,4053,4155,4257,6934",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "3784,3868,3952,4048,4150,4252,4346,7018"
+                    }
+                },
+                {
+                    "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "102",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "832"
+                    },
+                    "to": {
+                        "startLines": "42",
+                        "startColumns": "4",
+                        "startOffsets": "6213",
+                        "endLines": "54",
+                        "endColumns": "12",
+                        "endOffsets": "6929"
+                    }
+                },
+                {
+                    "source": "D:\\FILE_AS\\SiTaniBaleBale\\app\\src\\main\\res\\values-night\\preloaded_fonts.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "156"
+                    },
+                    "to": {
+                        "startLines": "16",
+                        "startColumns": "4",
+                        "startOffsets": "3617",
+                        "endLines": "18",
+                        "endColumns": "12",
+                        "endOffsets": "3714"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ULKHAK\\.gradle\\caches\\transforms-2\\files-2.1\\dc59e77442a53eceb5f3877651258e2a\\material-1.2.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,267,369,471,587,689,803,931,1047,1169,1305,1425,1559,1679,1791,1917,2055,2179,2309,2431,2569,2685",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "138,262,364,466,582,684,798,926,1042,1164,1300,1420,1554,1674,1786,1912,2050,2174,2304,2426,2564,2680,2800"
+                    },
+                    "to": {
+                        "startLines": "26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,56,57,58,59,60,61,62",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "4351,4439,4563,4665,4767,4883,4985,5099,5227,5343,5465,5601,5721,5855,5975,6087,7023,7161,7285,7415,7537,7675,7791",
+                        "endColumns": "87,123,101,101,115,101,113,127,115,121,135,119,133,119,111,125,137,123,129,121,137,115,119",
+                        "endOffsets": "4434,4558,4660,4762,4878,4980,5094,5222,5338,5460,5596,5716,5850,5970,6082,6208,7156,7280,7410,7532,7670,7786,7906"
+                    }
+                }
+            ]
+        }
+    ]
+}
